@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jubilant-fishstick/static/css/main.1319e149.css",
+    "main.js": "/jubilant-fishstick/static/js/main.7dc23fc0.js",
+    "static/css/568.31283ee7.chunk.css": "/jubilant-fishstick/static/css/568.31283ee7.chunk.css",
+    "static/js/568.b66ed263.chunk.js": "/jubilant-fishstick/static/js/568.b66ed263.chunk.js",
+    "static/js/592.967a11a8.chunk.js": "/jubilant-fishstick/static/js/592.967a11a8.chunk.js",
+    "static/js/172.601298a2.chunk.js": "/jubilant-fishstick/static/js/172.601298a2.chunk.js",
+    "index.html": "/jubilant-fishstick/index.html",
+    "main.1319e149.css.map": "/jubilant-fishstick/static/css/main.1319e149.css.map",
+    "main.7dc23fc0.js.map": "/jubilant-fishstick/static/js/main.7dc23fc0.js.map",
+    "568.31283ee7.chunk.css.map": "/jubilant-fishstick/static/css/568.31283ee7.chunk.css.map",
+    "568.b66ed263.chunk.js.map": "/jubilant-fishstick/static/js/568.b66ed263.chunk.js.map",
+    "592.967a11a8.chunk.js.map": "/jubilant-fishstick/static/js/592.967a11a8.chunk.js.map",
+    "172.601298a2.chunk.js.map": "/jubilant-fishstick/static/js/172.601298a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.7dc23fc0.js"
+  ]
+}
