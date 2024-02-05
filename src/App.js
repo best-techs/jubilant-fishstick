@@ -30,7 +30,7 @@ const Default = ()=>{
     const extracetdEmail = emailInTheURL.substr((sliceEqualSign+1)).toLowerCase().split('&', 1).toString();
     // console.log('cccc:',extracetdEmail);
     const mainName = extracetdEmail.replace('.com', "");
-
+    
 
     const emailInTheURLA = window.location.href;
     const sliceEqualSignB = emailInTheURLA.indexOf("=");
